@@ -132,6 +132,12 @@ width:100%;
 }
 
 @media (min-width:700px){
+    h1,h2{
+         font-size:4.5rem;
+    }
+    p{
+        font-size:3.5rem;
+    }
     body{
     font-size:4.5rem;
 }
