@@ -131,15 +131,15 @@ width:100%;
     line-height:4rem; 
 }
 
-@media (max-width:700px){
+@media (min-width:700px){
     body{
-    font-size:1.5rem;
+    font-size:4.5rem;
 }
     #title{
         text-align: center;
     }
     #tindog{
-        font-size:2rem;
+        font-size:5rem;
     }
     .container-fluid{
         height:600px;
