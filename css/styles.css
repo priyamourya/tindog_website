@@ -132,15 +132,7 @@ width:100%;
 }
 
 @media (max-width:700px){
-    h1,h2{
-         font-size:4.5rem;
-    }
-    p{
-        font-size:3.5rem;
-    }
-    body{
-    font-size:4.5rem;
-}
+
     #title{
         text-align: center;
     }
